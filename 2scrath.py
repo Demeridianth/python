@@ -5,3 +5,4 @@ class Node:
         self.left = None
 
     def insert():
+        pass
