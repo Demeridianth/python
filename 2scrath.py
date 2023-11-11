@@ -4,5 +4,8 @@ class Node:
         self.right = None
         self.left = None
 
+
+    # pass
+
     def insert():
         pass
