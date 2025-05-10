@@ -9,7 +9,7 @@ import locale
 import numpy as np
 
 
-"""library database"""
+"""book library database"""
 
 # class separation
 # match/case implemantation
