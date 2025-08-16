@@ -2,7 +2,7 @@
 
 ⚠️ **Note**: This app will automatically create a new table named **`films`** in your PostgreSQL database if it doesn’t already exist.  
 
-A simple backend API built with **FastAPI**, **SQLAlchemy**, and **PostgreSQL**.  
+A backend API built with **FastAPI**, **SQLAlchemy**, and **PostgreSQL**.  
 It manages a collection of films with CRUD operations and can also inject films from a CSV file.  
 
 This project is designed for portfolio purposes and can be used as a backend for a frontend application.  
