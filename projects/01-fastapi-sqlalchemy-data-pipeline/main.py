@@ -8,7 +8,7 @@ import pandas as pd
 # ---------------------------
 # Database setup
 # ---------------------------
-DATABASE_URL = 'postgresql://postgres:9922296@localhost:5432/dvd_rental'
+DATABASE_URL = 'postgresql://postgres:your_password@localhost:5432/dvd_rental'
 
 engine = create_engine(DATABASE_URL)
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)

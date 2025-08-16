@@ -6,7 +6,7 @@ This repository contains a collection of Python projects I've built to learn and
 
 ## 📁 Project List
 
-1. **01-fastapi-films-data-pipeline**  
+1. **01-fastapi-sqlalchemy-data-pipeline**  
    A RESTful API for managing a film database using FastAPI, SQLAlchemy, and PostgreSQL.
 
 1. **02-fastapi-oil-prices**  
