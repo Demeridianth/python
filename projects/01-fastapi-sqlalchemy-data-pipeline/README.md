@@ -10,7 +10,7 @@ This project is designed for portfolio purposes and can be used as a backend for
 ---
 ## To run the app:
 - fastapi dev main.py
-OR
+- OR
 - uvicorn main:app --reload
 
 
