@@ -42,6 +42,7 @@ This repository contains a collection of Python projects I've built to learn and
 
 - Python 3
 - FastAPI
+- SQLAlchemy
 - Pydantic
 - Flask
 - tkinter
